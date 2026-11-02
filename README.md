@@ -3,17 +3,17 @@ Computer Science student at the University of Fortaleza (UNIFOR).
 
 I'm interested in software engineering and game development, currently working on personal projects and exploring different technologies.
 
-Technologies I've worked with
+Technologies I've worked with:
 
-Python · Java · Lua/Luau · GDScript · C++
+   Python · Java · Lua/Luau · GDScript · C++
 
-Game Development
+Game Development:
 
-Godot · Roblox Studio
+  Godot · Roblox Studio
 
 Development Workflow:
 
-AI-assisted development · Git · GitHub
+  AI-assisted development · Git · GitHub
 
 I'm continuously working to strengthen my programming fundamentals, expand my technical knowledge, and become a more independent developer.
 
